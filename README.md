@@ -23,8 +23,8 @@
 -  https://www.tutorialspoint.com/unix_system_calls/sigaction.htm
 -  https://pubs.opengroup.org/onlinepubs/007904875/functions/sigaction.html
 -  https://stackoverflow.com/questions/231912/what-is-the-difference-between-sigaction-and-signal
--  https://www.youtube.com/watch?v=L3XuR-iRysU&ab_channel=IndronilBanerjee
 -  https://www.youtube.com/watch?v=83M5-NPDeWs&ab_channel=JacobSorber
+-  https://www.youtube.com/watch?v=L3XuR-iRysU&ab_channel=IndronilBanerjee
 -  https://leeters.netlify.app/what-you-need-to-know-about-minitalk/
 -  https://miro.com/app/board/uXjVOY6DYx8=/?invite_link_id=689990184473
 -  https://www.man7.org/linux/man-pages/man7/signal.7.html
